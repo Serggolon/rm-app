@@ -1,0 +1,13 @@
+@font-face {
+	font-family: 'rick-morty';
+	src: url('../fonts/rick-morty/GetSchwifty-Regular.eot');
+	src:
+		url('../fonts/rick-morty/GetSchwifty-Regular.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/rick-morty/GetSchwifty-Regular.woff2') format('woff2'),
+		url('../fonts/rick-morty/GetSchwifty-Regular.woff') format('woff'),
+		url('../fonts/rick-morty/GetSchwifty-Regular.ttf') format('truetype'),
+		url('../fonts/rick-morty/GetSchwifty-Regular.svg#GetSchwifty-Regular') format('svg');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
